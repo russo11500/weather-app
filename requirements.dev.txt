@@ -1,0 +1,4 @@
+fastapi[standard]==0.115.6
+aiohttp==3.11.11
+aioboto3==13.3.0
+uvicorn==0.34.0
